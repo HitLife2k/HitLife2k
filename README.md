@@ -1,7 +1,8 @@
 ## Hi there 👋
-<a href="https://github.com/HitLife2k"><img src="./devcard.png" width=“356” alt=“Hitlife’s Dev Card”/></a>
-<!--
-**HitLife2k/HitLife2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/HitLife2k">
+  <img src="./foldername/devcard.png" width="356" alt="Hitlife’s Dev Card"/>
+</a>
+<!--**HitLife2k/HitLife2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
